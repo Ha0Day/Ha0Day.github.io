@@ -51,8 +51,12 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Diary
-    url:               /example/
+    url:               /diary/
   - title:             Study
+    url:               /study/
+  - title:             Example
+    url:               /example/
+  - title:             Document
     url:               /docs/
   - title:             About
     url:               /about/
