@@ -50,10 +50,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Diary
-    url:               /diary/
   - title:             Study
     url:               /study/
+  - title:             Diary
+    url:               /diary/
   - title:             Example
     url:               /example/
   - title:             Document
